@@ -2000,6 +2000,7 @@
 - [Bhawana](https://github.com/bhawanaagarwal)
 - [Anaida Siv](https://github.com/Anaidasiv)
 - [Naomi Oyerbach](https://github.com/NaomiOyerbach)
+- [Nishi Mehta](https://github.com/inishimehta)
 - [Vinia Parker](https://github.com/Lavparker)
 - [Rithwik S Bharadwaj](https://github.com/rithwiksb)
 - [Chandrakanth Kokkiripati](https://github.com/Chandrakanthkokkiripati)
